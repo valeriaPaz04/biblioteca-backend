@@ -434,10 +434,6 @@ curl -X POST http://localhost:5000/api/usuarios/login \
 - Implementar notificaciones por email para préstamos
 - Agregar búsqueda y filtros avanzados
 
-## 📞 Soporte
-
-Si tienes preguntas sobre el código o necesitas ayuda para extender la funcionalidad, revisa los comentarios en el código fuente o consulta la documentación de las tecnologías utilizadas.
-
 ---
 
-**¡Felicitaciones!** Has completado una API REST completa para gestión de biblioteca siguiendo las mejores prácticas de desarrollo web. Este proyecto te servirá como base sólida para aplicaciones más complejas.
+** Has llegado al final del documento **
